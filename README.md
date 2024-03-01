@@ -61,10 +61,12 @@ Xvisor是一款type-1的hypervisor的开源软件, 支持ARMv8-A架构，社区�
 - 姓名：郭丁丁
 - 单位：飞腾信息技术有限公司
 - email：[guodingding1657@phytium.com.cn](mailto:guodingding1657@phytium.com.cn)
+
 **飞腾技术支持导师**
 - 姓名：朱鸿雷
 - 单位：飞腾信息技术有限公司
 - email：[zhuhonglei1714@phytium.com.cn](mailto:zhuhonglei1714@phytium.com.cn)
+
 **飞腾派支持导师**
 - 姓名：连宇飞
 - 单位：飞腾信息技术有限公司
