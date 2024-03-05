@@ -5,7 +5,7 @@
 
 Xvisor是一款type-1的hypervisor的开源软件, 支持ARMv8-A架构，社区中有树莓派(ARM架构)运行Xvisor的参考。飞腾派开发板是飞腾公司针对教育行业推出的一款国产开源硬件平台，兼容 ARMv8-A 处理器架构，符合Xvisor的支持范围。
 
-本项目要求参赛队伍深入理解Hypervisor和Guest OS的紧密交互，理解Hyperviso对硬件资源的模拟，在飞腾派开发板上适配Xvisor，在guest OS中运行Linux系统和RTOS系统， 至少两个系统串口可以访问。
+本项目要求参赛队伍深入理解Hypervisor和Guest OS的紧密交互，理解Hypervisor对硬件资源的模拟，在飞腾派开发板上适配Xvisor，在guest OS中运行Linux系统和RTOS系统， 至少两个系统串口可以访问。
 
 ## 预期目标
 
@@ -16,8 +16,7 @@ Xvisor是一款type-1的hypervisor的开源软件, 支持ARMv8-A架构，社区�
 
 - 熟悉Xvisor代码和文档
 - 深入理解Hypervisor和Guest OS的交互，在guest OS中运行Linux系统和RTOS系统， 至少实现两个系统串口可以访问。
-- 适配硬件
-	- 飞腾派开发板
+- 硬件支持**飞腾派开发板**
 
 ## 已有参考资料
 
